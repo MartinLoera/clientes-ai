@@ -18,4 +18,4 @@ la respuesta esperada es o un mensaje de no encontro ingredientes o una lista de
 que puedes realizar con tus ingredientes.
 
 En este repositorio encontraras los clientes con los que puedes hacer uso sin utilizar
-herramientas como postman, tienes dos opciones 1 con node y otra con python.
+herramientas como postman, tienes dos opciones 1 con node y otra con python . 
